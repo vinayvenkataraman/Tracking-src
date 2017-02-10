@@ -38,8 +38,8 @@ while(cap.isOpened()):
 
     refImage = gray
 
-    cv2.imshow('frame', thresh)
-    cv2.imshow('frame2', frame)
+    #cv2.imshow('Binary Difference Image', thresh)
+    cv2.imshow('Player Tracked', frame)
 
 cap.release()
 cv2.destroyAllWindows()
