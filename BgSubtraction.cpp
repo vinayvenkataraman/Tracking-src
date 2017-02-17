@@ -1,3 +1,8 @@
+//
+// This is based on Domenico Daniele Bloisi's tutorial
+// available on http://docs.opencv.org/3.2.0/d1/dc5/tutorial_background_subtraction.html
+//
+
 #include "BgSubtraction.h"
 
 using namespace cv;

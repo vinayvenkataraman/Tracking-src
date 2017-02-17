@@ -1,3 +1,8 @@
+#
+# Based on Ben Weinstein's work available on
+# https://github.com/bw4sz/heatmap
+#
+
 import numpy as np
 import cv2
 
